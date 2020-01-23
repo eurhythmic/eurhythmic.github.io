@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to eurhythmic
 
-You can use the [editor on GitHub](https://github.com/eurhythmic/eurhythmic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>**eurhythmic**
+><br/>
+>&ensp;&ensp;*adj.*
+>1. having a pleasing and harmonious rhythm, order, or structure.
+<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<img src="images/bitcoin-512.png" width="150">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CoinExplorer 
 
-```markdown
-Syntax highlighted code block
+Navigate the stormy seas of digital currencies with real-time market data and historical price charts.  Conveniently supports 20+ fiat currencies so you can be an expert wherever you are.
 
-# Header 1
-## Header 2
-### Header 3
+<img src="images/treasure-map-100.png" width="150">
 
-- Bulleted
-- List
+### MeTreasure
 
-1. Numbered
-2. List
+Bring your treasure map into modern times with the ability to mark the locations of your treasure¹ with more than just an 'X'.  With the tap of a button, get GPS coordinates, automatic address lookup, photos, and an overview of treasure on Apple Maps to boot.  Instead of a faded scroll, Core Data helps keep you organized during your treasure hunts.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eurhythmic/eurhythmic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+¹*Parking spots, a newly discovered hole-in-the-wall, a favorite spot in the park, time capsules*
